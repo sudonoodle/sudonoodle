@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a 19-year-old penetration tester, looking to learn as much as possible about offensive security.
+
 <!--
 **sudonoodle/sudonoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
